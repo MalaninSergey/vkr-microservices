@@ -1,0 +1,9 @@
+setuptools==60.2.0
+numpy==1.22.4
+python-dateutil==2.8.2
+pytz==2022.1
+pandas==1.4.2
+Django==3.2.9
+psycopg2-binary==2.9.3
+djangorestframework==3.13.1
+ElasticSearch==8.2.0
